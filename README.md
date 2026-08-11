@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07111F,45:0B7285,100:00E5FF&amp;height=210&amp;section=header&amp;text=Rodolfo%20Rodrigues&amp;fontSize=43&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Senior%20Software%20Engineer%20%E2%80%A2%20AI%20%26%20Cybersecurity&amp;descSize=18&amp;descAlignY=57" alt="Rodolfo Rodrigues — Senior Software Engineer, AI and Cybersecurity" />
+  <img width="100%" src="./assets/profile-banner.svg" alt="Rodolfo Rodrigues — Senior Software Engineer, AI and Cybersecurity" />
 </p>
 
 <p align="center">
@@ -30,17 +30,19 @@ I am a **Senior Software Engineer** working at the intersection of **software en
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🛡️ Cybersecurity</h3>
       <p>AppSec & secure review<br />Web, API, mobile & network security<br />Threat intelligence & vulnerability management<br />SAST • DAST • SCA • SBOM<br />Malware & binary-analysis research</p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🧠 Artificial Intelligence</h3>
       <p>AI-assisted security analysis<br />Agents & multi-agent systems<br />RAG & knowledge retrieval<br />Anomaly detection<br />AI observability, evaluation & security</p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h3>⚙️ Software Engineering</h3>
-      <p>Clean & Hexagonal Architecture<br />TDD and automated quality gates<br />Distributed & event-driven systems<br />Backend and API engineering<br />Observability, reliability & performance</p>
+      <p>Clean & Hexagonal Architecture • TDD and automated quality gates • Distributed and event-driven systems • Backend and API engineering • Observability, reliability and performance</p>
     </td>
   </tr>
 </table>
@@ -52,7 +54,7 @@ I am a **Senior Software Engineer** working at the intersection of **software en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="42" alt="TypeScript" title="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="42" alt="JavaScript" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="42" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" height="42" alt="Rust" title="Rust" />
+  <img src="https://cdn.simpleicons.org/rust/CE422B" height="42" alt="Rust" title="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="42" alt="C sharp" title="C#" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="42" alt="C plus plus" title="C++" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="42" alt="Spring" title="Spring Boot" />
@@ -66,12 +68,6 @@ I am a **Senior Software Engineer** working at the intersection of **software en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" height="42" alt="RabbitMQ" title="RabbitMQ" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="42" alt="GitHub Actions" title="GitHub Actions" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="42" alt="Linux" title="Linux" />
-</p>
-
-<p align="center">
-  <code>Python</code> • <code>TypeScript</code> • <code>Java</code> • <code>Rust</code> • <code>C#</code> • <code>C++</code> •
-  <code>Spring Boot</code> • <code>Node.js</code> • <code>React</code> • <code>PostgreSQL</code> •
-  <code>Docker</code> • <code>Kubernetes</code> • <code>Terraform</code>
 </p>
 
 ## `> projects --featured`
@@ -161,6 +157,9 @@ My previous profile, **[devrodts](https://github.com/devrodts)**, contains a bro
   Backend Architecture • Distributed Systems • Security Automation
 </p>
 
+---
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:07111F,45:0B7285,100:00E5FF&amp;height=115&amp;section=footer&amp;text=Secure%20by%20design.&amp;fontSize=20&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=72" alt="Secure by design" />
+  <strong>Secure by design.</strong><br />
+  <sub>Evidence over assumptions • Deterministic controls • Continuous improvement</sub>
 </p>
